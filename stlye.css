@@ -2,7 +2,8 @@
 * {
     margin: 0;
     padding: 0;
-    font-size: 0;
+	font-size: 0;
+	word-break: keep-all;
 }
 
 body {
@@ -631,6 +632,7 @@ section {
 #portfolioModal > .container > .modal-text {
 	font-size: 24px;
 	color: #bbb;
+	padding: 10%
 }
 
 /* REVIEW AREA */
